@@ -11,7 +11,7 @@
 
 Reach me out 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/guilherme-sartori-90a75b206/)](https://www.linkedin.com/in/guilherme-sartori-90a75b206/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guilherme_sart/)](https://www.instagram.com/guilherme_sart/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/guilherme-sartori-90a75b206/)](https://www.linkedin.com/in/guilherme-sartori-90a75b206/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-green?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guilherme_sart/)](https://www.instagram.com/guilherme_sart/) 
 
  
 <!---
