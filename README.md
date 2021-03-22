@@ -7,7 +7,7 @@
 
  #### 🌎 Faça da sua vida mais "Responsivo" 
  - 💡 I'm from ES living in Colatina
- - 💻Studying front-end
+ - 💻 Studying front-end
 
  
 <!---
