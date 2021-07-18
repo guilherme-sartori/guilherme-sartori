@@ -5,10 +5,10 @@
 - 💻I graduated in Computer Technician from the school <a href="https://www.facebook.com/honorio.fraga.33">Honório Fraga</a> , Brazil
 
 - ✅ Learned technologies:<br>
-  ▶ C;<br>
   ▶ JavaScript;<br>
   ▶ HTML;<br>
   ▶ CSS;<br>
+  ▶ C;<br>
   
 - 📚 Studying technologies:<br>
   ▶ ReactNative;<br>
