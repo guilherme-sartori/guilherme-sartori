@@ -5,7 +5,11 @@
 - 💻I graduated in Computer Technician from the school <a href="https://www.facebook.com/honorio.fraga.33">Honório Fraga</a> , Brazil
 
 - ✅ Learned technologies:<br>
-  ▶ JavaScript;<br>
+  <a href="https://dotnet.microsoft.com/" rel="nofollow">
+        <img alt="C#" width="32em" height="32em" src="/jaimeadf/jaimeadf/raw/main/assets/csharp.svg" style="max-width:100%;">
+    </a>
+
+<img alt="C#" width="32em" height="32em" src="/jaimeadf/jaimeadf/raw/main/assets/csharp.svg" style="max-width:100%;">
   ▶ HTML;<br>
   ▶ CSS;<br>
   ▶ C;<br>
