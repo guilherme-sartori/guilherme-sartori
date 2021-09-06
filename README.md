@@ -22,4 +22,4 @@ guilherme-sartori/guilherme-sartori is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=guilhermesart&show_icons=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesart&amp;hide=html&amp;layout=compact&amp;theme=material-palenight%22%3E">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesart&amp;hide=html&amp;layout=compact&amp">
