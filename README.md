@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesart&layout=compact&langs_count=7&theme=dracula"/>
 
 
-  ![Snake animation](https://github.com/guilhermesart/guilhermesart/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guilhermesart/blob/output/github-contribution-grid-snake.svg)
