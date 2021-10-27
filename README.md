@@ -5,14 +5,14 @@
 - 💻I graduated in Computer Technician from the school <a href="https://www.facebook.com/honorio.fraga.33">Honório Fraga</a> , Brazil
 
 - 📚 Studying technologies:<br>
-  ▶ JavaScript;<br>
-  ▶ HTML;<br>
-  ▶ CSS;<br>
-  ▶ C;<br>
-  ▶ Sass;<br>
-  ▶ ReactJS;<br>
-  ▶ ReactNative;<br>
-  ▶ Typescript;<br>
+  ▶ JavaScript<br>
+  ▶ HTML<br>
+  ▶ CSS<br>
+  ▶ C<br>
+  ▶ Sass<br>
+  ▶ ReactJS<br>
+  ▶ ReactNative<br>
+  ▶ Typescript<br>
   
 - 🎓I am currently graduating in Information Systems at <a href="https://unesc.br/">UNESC</a> - Centro Universitário do Espírito Santo , Brazil
 
