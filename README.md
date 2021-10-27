@@ -9,6 +9,8 @@
   ▶ HTML;<br>
   ▶ CSS;<br>
   ▶ C;<br>
+  ▶ Sass;<br>
+  ▶ ReactJS;<br>
   ▶ ReactNative;<br>
   ▶ Typescript;<br>
   
