@@ -2,17 +2,13 @@
 
 - Hello, my name is Guilherme, I am 19 years old!;
 - I live in Brazil!;
-
-- � Studying technologies:<br>
-  ▶ JavaScript<br>
-  ▶ HTML<br>
-  ▶ CSS<br>
-  ▶ C<br>
-  ▶ Sass<br>
-  ▶ ReactJS<br>
-  ▶ ReactNative<br>
-  ▶ Typescript<br>
-  ▶ Flutter<br>
+  <img align="center" alt="Guizo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Guizo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Guizo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Guizo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Guizo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Guizo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Guizo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 - 🎓I am currently graduating in Information Systems at <a href="https://unesc.br/">UNESC</a> - Centro Universitário do Espírito Santo , Brazil
 
