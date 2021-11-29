@@ -2,7 +2,6 @@
 
 - Hello, my name is Guilherme, I am 19 years old!;
 - I live in Brazil!;
-- I graduated in Computer Technician from the school <a href="https://www.facebook.com/honorio.fraga.33">Honório Fraga</a> , Brazil;
 
 - � Studying technologies:<br>
   ▶ JavaScript<br>
