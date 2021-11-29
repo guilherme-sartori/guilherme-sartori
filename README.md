@@ -4,7 +4,7 @@
 - 🏡 I live in Brazil!;
 - 💻I graduated in Computer Technician from the school <a href="https://www.facebook.com/honorio.fraga.33">Honório Fraga</a> , Brazil
 
-- 📚 Studying technologies:<br>
+- � Studying technologies:<br>
   ▶ JavaScript<br>
   ▶ HTML<br>
   ▶ CSS<br>
@@ -13,6 +13,7 @@
   ▶ ReactJS<br>
   ▶ ReactNative<br>
   ▶ Typescript<br>
+  ▶ Flutter<br>
   
 - 🎓I am currently graduating in Information Systems at <a href="https://unesc.br/">UNESC</a> - Centro Universitário do Espírito Santo , Brazil
 
