@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my Profile!</h1>
 
 - Hello, my name is Guilherme, I am 19 years old!;
-- I live in Brazil!;
+- I live in Brazil!;<br>
   <img align="center" alt="Guizo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guizo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guizo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
